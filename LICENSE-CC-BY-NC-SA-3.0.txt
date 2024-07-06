@@ -24,6 +24,7 @@ CONDITIONS.
 
 1. Definitions
 
+
  a. "Adaptation" means a work based upon the Work, or upon the Work and
     other pre-existing works, such as a translation, adaptation,
     derivative work, arrangement of music or other alterations of a
